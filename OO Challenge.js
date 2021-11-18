@@ -56,7 +56,7 @@ class Motorcycle extends Vehicle{
 //Also, if the garage is at capacity, it should say “Sorry, we’re full.”
 
 class Garage{
-    contructor(capacity){
+    contsructor(capacity){
         this.vehicles=[];
         this.capacity= capacity;
     }
